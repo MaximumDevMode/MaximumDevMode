@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MaximumDevMode
 - 🌱 I’m currently learning Discord.py and Discord.js
-- 📫 If you want to create a bot with me, or just talk, DM me on Discord! *Coming soon*
+- 📫 If you want to create a bot with me, or just talk, DM me on Discord! *MaximumDevMode#9543*
